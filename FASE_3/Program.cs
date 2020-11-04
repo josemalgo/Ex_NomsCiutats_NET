@@ -24,18 +24,19 @@ namespace FASE_3
             PrintCity(city6);
 
             string[] arrayCities = { city1, city2, city3, city4, city5, city6 };
+            string[] arrayCitiesModify = new string[arrayCities.Length];
 
             for (int i = 0; i < arrayCities.Length; i++)
             {
-                arrayCities[i] = arrayCities[i].Replace('a', '4');
+                arrayCitiesModify[i] = arrayCities[i].Replace('a', '4');
             }
 
-            Array.Sort(arrayCities);
+            Array.Sort(arrayCitiesModify);
 
             Console.WriteLine("\nArray modificat i ordenat");
-            for (int i = 0; i < arrayCities.Length; i++)
+            for (int i = 0; i < arrayCitiesModify.Length; i++)
             {
-                Console.WriteLine(arrayCities[i]);
+                Console.WriteLine(arrayCitiesModify[i]);
             }
 
         }
