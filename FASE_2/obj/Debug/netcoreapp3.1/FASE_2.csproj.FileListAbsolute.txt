@@ -1,0 +1,13 @@
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_NomsCiutats_NET\FASE_2\bin\Debug\netcoreapp3.1\FASE_2.exe
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_NomsCiutats_NET\FASE_2\bin\Debug\netcoreapp3.1\FASE_2.deps.json
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_NomsCiutats_NET\FASE_2\bin\Debug\netcoreapp3.1\FASE_2.runtimeconfig.json
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_NomsCiutats_NET\FASE_2\bin\Debug\netcoreapp3.1\FASE_2.runtimeconfig.dev.json
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_NomsCiutats_NET\FASE_2\bin\Debug\netcoreapp3.1\FASE_2.dll
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_NomsCiutats_NET\FASE_2\bin\Debug\netcoreapp3.1\FASE_2.pdb
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_NomsCiutats_NET\FASE_2\obj\Debug\netcoreapp3.1\FASE_2.csprojAssemblyReference.cache
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_NomsCiutats_NET\FASE_2\obj\Debug\netcoreapp3.1\FASE_2.AssemblyInfoInputs.cache
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_NomsCiutats_NET\FASE_2\obj\Debug\netcoreapp3.1\FASE_2.AssemblyInfo.cs
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_NomsCiutats_NET\FASE_2\obj\Debug\netcoreapp3.1\FASE_2.csproj.CoreCompileInputs.cache
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_NomsCiutats_NET\FASE_2\obj\Debug\netcoreapp3.1\FASE_2.dll
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_NomsCiutats_NET\FASE_2\obj\Debug\netcoreapp3.1\FASE_2.pdb
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_NomsCiutats_NET\FASE_2\obj\Debug\netcoreapp3.1\FASE_2.genruntimeconfig.cache
