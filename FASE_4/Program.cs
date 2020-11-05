@@ -30,12 +30,12 @@ namespace FASE_4
             char[] arrayCity5 = new char[city5.Length];
             char[] arrayCity6 = new char[city6.Length];
 
-            arrayCity1 = FillArray(city1, arrayCity1);
-            arrayCity2 = FillArray(city2, arrayCity2);
-            arrayCity3 = FillArray(city3, arrayCity3);
-            arrayCity4 = FillArray(city4, arrayCity4);
-            arrayCity5 = FillArray(city5, arrayCity5);
-            arrayCity6 = FillArray(city6, arrayCity6);
+            arrayCity1 = city1.ToCharArray();
+            arrayCity2 = city2.ToCharArray();
+            arrayCity3 = city3.ToCharArray();
+            arrayCity4 = city4.ToCharArray();
+            arrayCity5 = city5.ToCharArray();
+            arrayCity6 = city6.ToCharArray();
 
             Console.WriteLine("\nArrays amb els noms invertits");
             PrintCityReverse(arrayCity1);
@@ -55,16 +55,6 @@ namespace FASE_4
         static void PrintCity(string city)
         {
             Console.WriteLine(city);
-        }
-
-        static char[] FillArray(string city, char[] arrayCity)
-        {
-            for (int i = 0; i < arrayCity.Length; i++)
-            {
-                arrayCity[i] = city[i];
-            }
-
-            return arrayCity;
         }
 
         static void PrintCityReverse(char[] arrayCity)
