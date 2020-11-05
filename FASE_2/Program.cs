@@ -30,7 +30,7 @@ namespace FASE_2
             Console.WriteLine("\nArray ordenat");
             for(int i = 0; i < arrayCities.Length; i++)
             {
-                Console.WriteLine(arrayCities[i]);
+                PrintCity(arrayCities[i]);
             }
 
         }

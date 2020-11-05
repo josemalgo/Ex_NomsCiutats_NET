@@ -36,7 +36,7 @@ namespace FASE_3
             Console.WriteLine("\nArray modificat i ordenat");
             for (int i = 0; i < arrayCitiesModify.Length; i++)
             {
-                Console.WriteLine(arrayCitiesModify[i]);
+                PrintCity(arrayCitiesModify[i]);
             }
 
         }
